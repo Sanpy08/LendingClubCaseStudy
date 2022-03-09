@@ -1,9 +1,9 @@
 # Lending Club Case Study
 
 ## Objective of Case study
-'''
+
 The Purpose is to identify patterns which indicate if a person is likely to default. The aim of this study is to save financial institutions from huge credit loss. The credit loss is nothing but the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
-'''
+
 
 ## Exploratory Data Analysis (EDA):
 
@@ -16,7 +16,7 @@ The Purpose is to identify patterns which indicate if a person is likely to defa
 
 ## Contributors:
 ### Nitesh Kumar Nishant
-### Sanjeev Prasad<br>
+### Sanjeev Prasad
 
 
 Developed as part of the Exploratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT, Bangalore
